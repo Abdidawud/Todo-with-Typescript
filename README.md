@@ -1,6 +1,6 @@
 # Todo List Application
 
-This is a simple Todo List application built using HTML, CSS, and JavaScript.
+This is a simple Todo List application built using HTML, CSS, and TypeScript.
 
 ## Features
 
